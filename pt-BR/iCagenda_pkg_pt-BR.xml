@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="2.5">
+<extension method="upgrade" type="file" version="2.5.0">
 	<name>iCagenda - Portuguese/Brasil Language Pack</name>
-	<packagename>pt-BR</packagename>
-	<version>1.2.5</version>
-	<creationDate>25.09.2012</creationDate>
+	<tag>pt-BR</tag>
+	<version>1.2.6</version>
+	<creationDate>17-10-2012</creationDate>
 	<author>Carosouza</author>
 	<authorEmail>info@joomlic.com</authorEmail>
 	<authorUrl>www.joomlic.com</authorUrl>
-    <copyright>Copyright (C) 2012 Jooml!C. All Rights Reserved</copyright>
+	<copyright>Copyright (C) 2012 Jooml!C. All Rights Reserved</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<url></url>
-	<packager>Jooml!C iCagenda Brasil</packager>
-	<packagerurl>www.joomlic.com</packagerurl>
+	<url>http://www.joomlic.com</url>
 	<description>
 		<![CDATA[
-		<h2>Pacote de idioma Portuguese/Brasil(pt-BR) completo para a versão 1.2.5 iCagenda</h2>
+		<h2>Pacote de idioma Portuguese/Brasil(pt-BR) completo para a versão 1.2.6 iCagenda</h2>
 		<h3>Translation Author : Carosouza</h3>
 		<br>
 		]]>
 	</description>
-	<files>
-		<file type="language" client="site" id="pt-BR">site_pt-BR.zip</file>
-		<file type="language" client="administrator" id="pt-BR">admin_pt-BR.zip</file>
-	</files>
+	
+	<fileset>
+		<files folder="admin" target="administrator/language/pt-BR/">
+			<filename>pt-BR.com_icagenda.ini</filename>
+			<filename>pt-BR.com_icagenda.sys.ini</filename>
+		</files>
+		<files folder="site" target="language/pt-BR/">
+			<filename>pt-BR.com_icagenda.ini</filename>
+			<filename>pt-BR.mod_iccalendar.ini</filename>
+		</files>
+	</fileset>
+
+	<updateservers>
+		<server type="collection" priority="1" name="JoomliC Update Server">http://www.joomlic.com/icupdate/icagenda/translations.xml</server>
+	</updateservers>
 </extension>
