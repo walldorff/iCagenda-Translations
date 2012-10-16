@@ -20,14 +20,14 @@
 	</description>
 
 	<fileset>
-		<files folder="admin" target="administrator/language/fr-FR/">
+		<files folder="admin" target="administrator/language/it-IT/">
 			<filename>it-IT.com_icagenda.ini</filename>
 			<filename>it-IT.com_icagenda.sys.ini</filename>
 		</files>
-		<files folder="site" target="language/fr-FR/">
+		<files folder="site" target="language/it-IT/">
 			<filename>it-IT.com_icagenda.ini</filename>
 		</files>
-		<files folder="module" target="language/fr-FR/">
+		<files folder="module" target="language/it-IT/">
 			<filename>it-IT.mod_iccalendar.ini</filename>
 		</files>
 	</fileset>
