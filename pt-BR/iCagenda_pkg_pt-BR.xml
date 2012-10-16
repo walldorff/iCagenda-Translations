@@ -25,6 +25,8 @@
 		</files>
 		<files folder="site" target="language/pt-BR/">
 			<filename>pt-BR.com_icagenda.ini</filename>
+		</files>
+		<files folder="module" target="language/pt-BR/">
 			<filename>pt-BR.mod_iccalendar.ini</filename>
 		</files>
 	</fileset>
