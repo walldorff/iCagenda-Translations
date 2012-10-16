@@ -1,2 +1,2 @@
-iCagenda-Translation-Packs
+iCagenda Translation Packs
 ==========================
