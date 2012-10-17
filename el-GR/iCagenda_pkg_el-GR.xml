@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension method="upgrade" type="file" version="2.5">
+
+	<name>iCagenda - Greek Language Pack</name>
+	<tag>el-GR</tag>
+	<creationDate>08-10-2012</creationDate>
+	<version>1.2.4</version>
+	<author>E.Gkana-D.Kontogeorgis</author>
+	<authorEmail>ganaelina85@yahoo.gr</authorEmail>
+	<authorUrl>www.joomlic.com</authorUrl>
+    <copyright>Copyright (C) 2012 Jooml!C. All Rights Reserved</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<url>http://www.joomlic.com</url>
+	<description>
+		<![CDATA[
+		<h2>Greek Translation Pack - iCagenda v.1.2.4</h2>
+		<h3>Translator : E.Gkana-D.Kontogeorgis</h3>
+		<br>
+		]]>
+	</description>
+
+	<fileset>
+		<files folder="admin" target="administrator/language/el-GR/">
+			<filename>el-GR.com_icagenda.ini</filename>
+			<filename>el-GR.com_icagenda.sys.ini</filename>
+		</files>
+		<files folder="site" target="language/el-GR/">
+			<filename>el-GR.com_icagenda.ini</filename>
+		</files>
+		<files folder="module" target="language/el-GR/">
+			<filename>el-GR.mod_iccalendar.ini</filename>
+		</files>
+	</fileset>
+	
+	<updateservers>
+		<server type="collection" priority="1" name="JoomliC Update Server">http://www.joomlic.com/icupdate/icagenda/translations.xml</server>
+	</updateservers>
+
+</extension>
