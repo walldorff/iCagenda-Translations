@@ -13,10 +13,10 @@ Lyr!C
 
 
 VERSION 1.2.7 Ready :
--en-GB (Lyr!C)
--fr-FR (Lyr!C)
--it-IT (giusebos)
--pt-BR (carosouza)
+en-GB (Lyr!C)
+fr-FR (Lyr!C)
+it-IT (giusebos)
+pt-BR (carosouza)
 
 VERSION 1.2.7 in progress :
--el-GR (elinag)
+el-GR (elinag)
