@@ -35,4 +35,5 @@
 	<updateservers>
 		<server type="collection" priority="1" name="JoomliC Update Server">http://www.joomlic.com/icupdate/icagenda/translations.xml</server>
 	</updateservers>
+	
 </extension>
