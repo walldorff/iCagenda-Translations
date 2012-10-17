@@ -2,7 +2,7 @@
 <extension method="upgrade" type="file" version="2.5.0">
 	<name>iCagenda - Portuguese/Brasil Language Pack</name>
 	<tag>pt-BR</tag>
-	<version>1.2.6</version>
+	<version>1.2.5</version>
 	<creationDate>17-10-2012</creationDate>
 	<author>Carosouza</author>
 	<authorEmail>info@joomlic.com</authorEmail>
@@ -12,7 +12,7 @@
 	<url>http://www.joomlic.com</url>
 	<description>
 		<![CDATA[
-		<h2>Pacote de idioma Portuguese/Brasil(pt-BR) completo para a versão 1.2.6 iCagenda</h2>
+		<h2>Pacote de idioma Portuguese/Brasil(pt-BR) completo para a versão 1.2.5 iCagenda</h2>
 		<h3>Translation Author : Carosouza</h3>
 		<br>
 		]]>
