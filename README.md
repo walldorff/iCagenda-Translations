@@ -12,6 +12,8 @@ Thanks to everyone, and hope that GitHub will help us to update in an easier way
 Lyr!C
 
 
-VERSION 1.2.7 Ready : en-GB (Lyr!C) / fr-FR (Lyr!C) / it-IT (giusebos) / pt-BR (carosouza)
+VERSION 1.2.7 Ready : en-GB (Lyr!C) / fr-FR (Lyr!C) / it-IT (giusebos) / pt-BR (carosouza) / el-GR (elinag) / nb-NO (rikrei)
 
-VERSION 1.2.7 in progress : el-GR (elinag)
+VERSION 1.2.7 to be update : de-DE (BMB) / lv-LV (kredo9)
+
+Soon translation packs on GitHub : sk-SK / nl-NL / es-ES / ru-RU / cz-CZ
