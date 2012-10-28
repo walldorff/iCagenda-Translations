@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension method="upgrade" type="file" version="2.5">
+
+	<name>iCagenda - Polish PL Language Pack</name>
+	<tag>pl-PL</tag>
+	<creationDate>2012-10-18</creationDate>
+	<version>1.2.6</version>
+	<author>Andrzej Opejda</author>
+	<authorEmail> </authorEmail>
+	<authorUrl> </authorUrl>
+	<copyright>Copyright (C) 2012 Jooml!C. All Rights Reserved</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<url>http://www.joomlic.com</url>
+	<description>
+		<![CDATA[
+		<h2>Full Polish (pl-PL) language pack for version 1.2.6 iCagenda</h2>
+		<h3>Translation Author: Andrzej Opejda</h3>
+		<br>
+		]]>
+	</description>
+
+	<fileset>
+		<files folder="admin" target="administrator/language/pl-PL/">
+			<filename>pl-PL.com_icagenda.ini</filename>
+			<filename>pl-PL.com_icagenda.sys.ini</filename>
+		</files>
+		<files folder="module" target="language/pl-PL/">
+			<filename>pl-PL.mod_iccalendar.ini</filename>
+		</files>
+		<files folder="site" target="language/pl-PL/">
+			<filename>pl-PL.com_icagenda.ini</filename>
+		</files>
+	</fileset>
+	
+	<updateservers>
+		<server type="collection" priority="1" name="JoomliC Update Server">http://www.joomlic.com/icupdate/icagenda/translations.xml</server>
+	</updateservers>
+</extension>
