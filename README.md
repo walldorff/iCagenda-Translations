@@ -12,8 +12,8 @@ Thanks to everyone, and hope that GitHub will help us to update in an easier way
 Lyr!C
 
 
-VERSION 1.2.7 Ready : en-GB (Lyr!C) / fr-FR (Lyr!C) / it-IT (giusebos) / pt-BR (carosouza) / el-GR (elinag) / nb-NO (rikrei) / lv-LV (kredo9)
+VERSION 1.2.7/9 Ready : en-GB (Lyr!C) / fr-FR (Lyr!C) / it-IT (giusebos) / pt-BR (carosouza) / el-GR (elinag) / nb-NO (rikrei) / lv-LV (kredo9) / es-ES (elerizo) / fi-FI (Kai Metsävainio)
 
-VERSION 1.2.7 to be update : de-DE (BMB) / sk-SK (JRIBARSZKI) / nl-NL (walldorff) / es-ES (elerizo) / ru-RU (MSV) / fi-FI (Kai Metsävainio)
+VERSION 1.2.7 to be update : de-DE (BMB) / sk-SK (JRIBARSZKI) / nl-NL (walldorff) / ru-RU (MSV)
 
 Translator with its own update server : cz-CZ (Bong)
