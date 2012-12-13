@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension method="upgrade" type="file" version="2.5">
 
-	<name>iCagenda - English da-DK Language Pack</name>
+	<name>iCagenda - Danish da-DK Language Pack</name>
 	<tag>da-DK</tag>
 	<creationDate>2012-12-13</creationDate>
 	<version>1.3</version>
@@ -13,7 +13,7 @@
 	<url>http://www.joomlic.com</url>
 	<description>
 		<![CDATA[
-		<h2>Full English (da-DK) language pack for iCagenda</h2>
+		<h2>Full Danish (da-DK) language pack for iCagenda</h2>
 		<h3>Translation Author: Dennis Hestbech</h3>
 		<br>
 		]]>
