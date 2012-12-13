@@ -1,6 +1,6 @@
 iCagenda Translation Packs
 ==========================
-Before updating a Translation Pack, thanks to have a look at the new strings of translation there : http://joomlic.github.com/iCagenda-Translations/
+Before updating a Translation Pack, thanks to have a look at the new strings of translation there : https://github.com/JoomliC/iCagenda-Translations/tree/master/xx-XX%20News%20strings%201.3
 
 Note that in developpement, i update myself English files (and French), so you can take English en-GB as a reference.
 The better way is to have the same order, and display, so that you will be able to compare with your own files.
@@ -14,6 +14,6 @@ Lyr!C
 
 VERSION 1.2.7/9 Ready : en-GB (Lyr!C) / fr-FR (Lyr!C) / it-IT (giusebos) / pt-BR (carosouza) / el-GR (elinag) / nb-NO (rikrei) / lv-LV (kredo9) / es-ES (elerizo) / fi-FI (Kai Metsävainio)
 
-VERSION 1.2.7 to be update : de-DE (BMB) / sk-SK (JRIBARSZKI) / nl-NL (walldorff) / ru-RU (MSV)
+VERSION to be update : de-DE (BMB) / sk-SK (JRIBARSZKI) / nl-NL (walldorff) / ru-RU (MSV)
 
 Translator with its own update server : cz-CZ (Bong)
