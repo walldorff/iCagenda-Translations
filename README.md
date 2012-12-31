@@ -1,6 +1,6 @@
 iCagenda Translation Packs
 ==========================
-Before updating a Translation Pack, thanks to have a look at the new strings of translation there : https://github.com/JoomliC/iCagenda-Translations/tree/master/xx-XX%20News%20strings%201.3
+Before updating a Translation Pack, thanks to have a look at the new strings of translation there : https://github.com/JoomliC/iCagenda-Translations/tree/master/xx-XX%20News%20strings%202.0.0
 
 Note that in developpement, i update myself English files (and French), so you can take English en-GB as a reference.
 The better way is to have the same order, and display, so that you will be able to compare with your own files.
