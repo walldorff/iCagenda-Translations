@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension method="upgrade" type="file" version="2.5">
 
-	<name>iCagenda - Spanish Language Pack</name>
+	<name>iCagenda - Spanish es-ES Language Pack</name>
 	<tag>es-ES</tag>
-	<creationDate>2012-11-05</creationDate>
-	<version>1.2.9</version>
-	<author>Ismael Velasco (elerizo)</author>
-	<authorEmail>info@joomlic.com</authorEmail>
-	<authorUrl>www.joomlic.com</authorUrl>
-    <copyright>Copyright (C) 2012 Jooml!C. All Rights Reserved</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<url>http://www.joomlic.com</url>
+	<creationDate>2013-01-16</creationDate>
+	<version>2.0</version>
+	<author>Spanih Team: Ismael Velasco (elerizo) & Goncatín (v2)</author>
+	<authorEmail>goncatin@gmail.com</authorEmail>
+	<authorUrl>http://www.joomlic.com/</authorUrl>
+	<copyright>Copyright (C) 2013 Goncatín todos los derechos reservados</copyright>
+	<license>GNU General Public License versión 2 o posterior; see LICENSE.txt</license>
+	<url>http://www.joomlic.com/</url>
 	<description>
 		<![CDATA[
-		<h2>Spanish Translation Pack - iCagenda v.1.2.9</h2>
-		<h3>Translator : Ismael Velasco (elerizo)</h3>
+		<h2>Pack completo de lenguage español (es-ES) para iCagenda</h2>
+		<h3>Traducción by the Spanih Team: Goncatín (v2) - elerizo</h3>
 		<br>
 		]]>
 	</description>
@@ -35,4 +35,5 @@
 	<updateservers>
 		<server type="collection" priority="1" name="JoomliC Update Server">http://www.joomlic.com/icupdate/icagenda/translations.xml</server>
 	</updateservers>
+
 </extension>
