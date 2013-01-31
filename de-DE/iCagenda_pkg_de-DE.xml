@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension method="upgrade" type="file" version="2.5">
 
-	<name>iCagenda - German DE Language Pack</name>
+	<name>iCagenda - German de-DE Language Pack</name>
+	
 	<tag>de-DE</tag>
-	<version>1.2.5</version>
-	<creationDate>2012.09.25</creationDate>
+	<version>2.0.3</version>
+	
+	<creationDate>2013.01.30</creationDate>
+	
 	<author>BMB</author>
+	
 	<authorEmail>contact@get-german-translation.com</authorEmail>
+	
 	<authorUrl>www.get-german-translation.com</authorUrl>
-    <copyright>Copyright (C) 2012 Jooml!C. All Rights Reserved</copyright>
+    
+	<copyright>Copyright (C) 2012 Jooml!C. All Rights Reserved</copyright>
+	
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	
 	<url>http://www.joomlic.com</url>
 	<description>
 		<![CDATA[
-		<h2>Full German DE (de-DE) language pack for version 1.2.5 iCagenda</h2>
+		
+		<h2>Full German DE (de-DE) language pack for iCagenda</h2>
+		
 		<h3>Translation Author: BMB [<a href="mailto:contact@get-german-translation.com">contact</a>] [<a href="http://www.get-german-translation.com">website</a>]</h3>
+		
 		<br>
+		
 		]]>
+	
 	</description>
 
 	<fileset>
