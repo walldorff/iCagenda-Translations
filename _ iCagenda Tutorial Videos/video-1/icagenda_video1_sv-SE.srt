@@ -1,0 +1,155 @@
+1
+00:00:30,425 --> 00:00:38,631
+Install icagenda 2.0
+
+2
+00:00:52,608 --> 00:00:58,013
+The version you have installed
+
+3
+00:00:59,395 --> 00:01:07,475
+Configuration of the calendar module
+
+4
+00:01:10,518 --> 00:01:24,932
+Select the position of the module iCcalendar
+
+5
+00:01:28,178 --> 00:01:35,184
+Publish module
+
+6
+00:01:36,999 --> 00:01:41,349
+Module Assignment to pages
+
+7
+00:01:49,362 --> 00:01:54,368
+Select 'Left' to display the tooltip to the left of the module,
+'Right' to display the tooltip to the right of the module,
+or select 'Middle of the page' to center the tip horizontally in the middle of your page
+
+8
+00:01:55,113 --> 00:01:59,943
+also indicate if you want to display at the top or bottom,
+if Middle of the page selected
+
+9
+00:02:01,029 --> 00:02:04,179
+Select whether the tooltip should open on mouse over
+or by clicking on the date of the calendar module
+
+10
+00:02:04,937 --> 00:02:14,135
+Indicate the date format, in tooltip
+
+11
+00:02:17,093 --> 00:02:24,843
+Now select the template (design of our calendar)
+There are two theme packs included, but you can create and install others.
+
+12
+00:02:27,257 --> 00:02:31,659
+Select the first day of the week,
+Sunday or Monday
+
+13
+00:02:41,377 --> 00:02:51,750
+We can indicate which category refers calendar.
+Currently we have not created any category.
+
+14
+00:02:56,206 --> 00:02:59,660
+Save and close the module management
+
+15
+00:03:03,081 --> 00:03:10,015
+Have a look at your calendar module!
+
+16
+00:03:11,981 --> 00:03:18,170
+There is something not set!
+
+17
+00:03:20,952 --> 00:03:27,403
+Don't worry! You just need to create a menu
+to be connected to iCagenda.
+
+18
+00:03:30,159 --> 00:03:34,765
+In menu manager, click on 'New'
+
+19
+00:03:37,370 --> 00:03:45,464
+Select iCagenda > list of events, in Menu Item Type
+
+20
+00:03:54,270 --> 00:04:01,620
+Add a title to this new menu link
+
+21
+00:04:03,634 --> 00:04:14,567
+Set which events you want to display,
+all events, future or past events
+
+22
+00:04:17,301 --> 00:04:21,219
+You can choose to display only one category
+
+23
+00:04:22,321 --> 00:04:25,970
+Éselect order of the list
+
+24
+00:04:31,136 --> 00:04:35,662
+Select the theme for your events list
+
+25
+00:04:36,788 --> 00:04:38,954
+Éhow many characters in the short description!
+
+26
+00:04:40,088 --> 00:04:42,198
+Énumber of events per page
+
+27
+00:04:43,167 --> 00:04:53,800
+Édate format in event list, and details
+
+28
+00:04:56,090 --> 00:04:59,672
+you can add a personal separator for dates with numbersÉ
+
+29
+00:05:00,000 --> 00:05:02,500
+Width of the GoogleMap.
+(useful for some template to select a 99%)
+
+30
+00:05:03,000 --> 00:05:05,968
+Height of the GoogleMap.
+(in pixel)
+
+31
+00:05:06,184 --> 00:05:09,838
+Save and Close
+
+32
+00:05:11,851 --> 00:05:19,927
+Reload the page...
+
+33
+00:05:22,488 --> 00:05:27,000
+Excellent! Info message removed.
+
+34
+00:05:28,850 --> 00:05:32,064
+Click on the item menu...
+
+35
+00:05:33,734 --> 00:05:36,500
+Still a white page, but you need now to add events.
+
+36
+00:05:37,000 --> 00:05:40,100
+Tutorial to add events in the next video, part 2!
+
