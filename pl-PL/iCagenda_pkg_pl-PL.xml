@@ -3,9 +3,9 @@
 
 	<name>iCagenda - Polish PL Language Pack</name>
 	<tag>pl-PL</tag>
-	<creationDate>2012-10-28</creationDate>
-	<version>1.2.7</version>
-	<author>Andrzej Opejda</author>
+	<creationDate>2013-02-07</creationDate>
+	<version>2.0.6</version>
+	<author>Konrad Pietrzykowski</author>
 	<authorEmail> </authorEmail>
 	<authorUrl> </authorUrl>
 	<copyright>Copyright (C) 2012 Jooml!C. All Rights Reserved</copyright>
@@ -13,8 +13,8 @@
 	<url>http://www.joomlic.com</url>
 	<description>
 		<![CDATA[
-		<h2>Full Polish (pl-PL) language pack for version 1.2.7 iCagenda</h2>
-		<h3>Translation Author: Andrzej Opejda</h3>
+		<h2>Pełne polskie (pl-PL) tłumaczenie dla komponentu iCagenda w wersji 2.0.6</h2>
+		<h3>Tłumaczenie: Konrad Pietrzykowski</h3>
 		<br>
 		]]>
 	</description>
