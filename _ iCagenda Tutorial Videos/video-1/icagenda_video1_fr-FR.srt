@@ -1,32 +1,32 @@
 1
 00:00:30,425 --> 00:00:38,631
-Install icagenda 2.0
+Installation d'iCagenda v2
 
 2
 00:00:52,608 --> 00:00:58,013
-The version you have installed
+Version InstallÃ©e
 
 3
 00:00:59,395 --> 00:01:07,475
-Configuration of the calendar module
+Configuration du module calendrier
 
 4
 00:01:10,518 --> 00:01:24,932
-Select the position of the module iCcalendar
+SÃ©lectionnez la position du module iC calendar
 
 5
 00:01:28,178 --> 00:01:35,184
-Publish module
+Publiez le module
 
 6
 00:01:36,999 --> 00:01:41,349
-Module Assignment to pages
+Assignation du module aux pages...
 
 7
 00:01:49,362 --> 00:01:54,368
-Select 'Left' to display the tooltip to the left of the module,
-'Right' to display the tooltip to the right of the module,
-or select 'Middle of the page' to center the tip horizontally in the middle of your page
+SÃ©lectionnez "Gauche" pour ouvrir l'info-bulle Ã  la gauche du module,
+'Droite' pour ouvrir l'info-bulle Ã  la droite du module,
+ou sÃ©lectionnez 'Milieu de la page' pour centrer horizontalement l'info-bulle au milieu de votre page.
 
 8
 00:01:55,113 --> 00:01:59,943
@@ -97,7 +97,7 @@ You can choose to display only one category
 
 23
 00:04:22,321 --> 00:04:25,970
-Éselect order of the list
+ï¿½select order of the list
 
 24
 00:04:31,136 --> 00:04:35,662
@@ -105,19 +105,19 @@ Select the theme for your events list
 
 25
 00:04:36,788 --> 00:04:38,954
-Éhow many characters in the short description!
+ï¿½how many characters in the short description!
 
 26
 00:04:40,088 --> 00:04:42,198
-Énumber of events per page
+ï¿½number of events per page
 
 27
 00:04:43,167 --> 00:04:53,800
-Édate format in event list, and details
+ï¿½date format in event list, and details
 
 28
 00:04:56,090 --> 00:04:59,672
-you can add a personal separator for dates with numbersÉ
+you can add a personal separator for dates with numbersï¿½
 
 29
 00:05:00,000 --> 00:05:02,500
