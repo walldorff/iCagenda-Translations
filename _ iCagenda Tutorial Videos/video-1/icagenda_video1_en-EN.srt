@@ -97,7 +97,7 @@ You can choose to display only one category
 
 23
 00:04:22,321 --> 00:04:25,970
-Éselect order of the list
+ï¿½select order of the list
 
 24
 00:04:31,136 --> 00:04:35,662
@@ -105,19 +105,19 @@ Select the theme for your events list
 
 25
 00:04:36,788 --> 00:04:38,954
-Éhow many characters in the short description!
+ï¿½how many characters in the short description!
 
 26
 00:04:40,088 --> 00:04:42,198
-Énumber of events per page
+ï¿½number of events per page
 
 27
 00:04:43,167 --> 00:04:53,800
-Édate format in event list, and details
+ï¿½date format in event list, and details
 
 28
 00:04:56,090 --> 00:04:59,672
-you can add a personal separator for dates with numbersÉ
+you can add a personal separator for dates with numbers
 
 29
 00:05:00,000 --> 00:05:02,500
