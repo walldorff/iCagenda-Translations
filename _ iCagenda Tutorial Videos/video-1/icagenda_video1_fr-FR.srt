@@ -16,7 +16,7 @@ Sélectionnez la position du module iC calendar
 
 5
 00:01:28,178 --> 00:01:35,184
-Publiez le module
+Publier le module
 
 6
 00:01:36,999 --> 00:01:41,349
@@ -24,132 +24,131 @@ Assignation du module aux pages...
 
 7
 00:01:49,362 --> 00:01:54,368
-Sélectionnez "Gauche" pour ouvrir l'info-bulle à la gauche du module,
+Sélectionnez 'Gauche' pour ouvrir l'info-bulle à la gauche du module,
 'Droite' pour ouvrir l'info-bulle à la droite du module,
 ou sélectionnez 'Milieu de la page' pour centrer horizontalement l'info-bulle au milieu de votre page.
 
 8
 00:01:55,113 --> 00:01:59,943
-also indicate if you want to display at the top or bottom,
-if Middle of the page selected
+Vous pouvez aussi placer l'info-bulle au-dessus, ou au desous du calendrier,
+si vous avez sélectionné 'Milieu de la page'
 
 9
 00:02:01,029 --> 00:02:04,179
-Select whether the tooltip should open on mouse over
-or by clicking on the date of the calendar module
+Sélectionnez si l'info-bulle doit s'ouvrir au passage de la souris,
+ou au clic sur une date du calendrier
 
 10
 00:02:04,937 --> 00:02:14,135
-Indicate the date format, in tooltip
+Format de la date dans l'info-bulle
 
 11
 00:02:17,093 --> 00:02:24,843
-Now select the template (design of our calendar)
-There are two theme packs included, but you can create and install others.
+Maintenant, sélectionnez le thème du calendrier
+Il y a 2 Thèmes inclus, mais il est possible d'en créer et/ou installer d'autres.
 
 12
 00:02:27,257 --> 00:02:31,659
-Select the first day of the week,
-Sunday or Monday
+Sélection du premier jour de la semaine,
+Lundi ou Dimanche
 
 13
 00:02:41,377 --> 00:02:51,750
-We can indicate which category refers calendar.
-Currently we have not created any category.
+Affichez uniquement les évènements d'une catégorie, ou toutes.
+Pour l'instant, aucune catégorie n'a été créée.
 
 14
 00:02:56,206 --> 00:02:59,660
-Save and close the module management
+Enregistrer et fermer
 
 15
 00:03:03,081 --> 00:03:10,015
-Have a look at your calendar module!
+Jeter un oeil au calendrier!
 
 16
 00:03:11,981 --> 00:03:18,170
-There is something not set!
+Quelque chose n'est pas encore paramétré!
 
 17
 00:03:20,952 --> 00:03:27,403
-Don't worry! You just need to create a menu
-to be connected to iCagenda.
+Pas de panique! Vous devez simplement créer un nouveau lien de menu,
+pour lier le calendrier au composant iCagenda.
 
 18
 00:03:30,159 --> 00:03:34,765
-In menu manager, click on 'New'
+Dans le gestionnaire de menu, cliquez sur 'nouveau'
 
 19
 00:03:37,370 --> 00:03:45,464
-Select iCagenda > list of events, in Menu Item Type
+Sélectionnez iCagenda > liste de évènements, comme type de lien de menu
 
 20
 00:03:54,270 --> 00:04:01,620
-Add a title to this new menu link
+Ajoutez un titre à ce nouveau lien de menu
 
 21
 00:04:03,634 --> 00:04:14,567
-Set which events you want to display,
-all events, future or past events
+Définir les événements que vous souhaitez afficher,
+tous les événements, événements futurs ou passés
 
 22
 00:04:17,301 --> 00:04:21,219
-You can choose to display only one category
+Vous pouvez choisir d'afficher une seule catégorie
 
 23
 00:04:22,321 --> 00:04:25,970
-�select order of the list
+Sélectionnez l'ordre de la liste
 
 24
 00:04:31,136 --> 00:04:35,662
-Select the theme for your events list
+Choisissez le thème de votre liste des événements
 
 25
 00:04:36,788 --> 00:04:38,954
-�how many characters in the short description!
+Nombre de caractères dans la description courte!
 
 26
 00:04:40,088 --> 00:04:42,198
-�number of events per page
+Nombre d'événements par page
 
 27
 00:04:43,167 --> 00:04:53,800
-�date format in event list, and details
+Format de date dans la liste des événements et des détails
 
 28
 00:04:56,090 --> 00:04:59,672
-you can add a personal separator for dates with numbers�
+Vous pouvez ajouter un séparateur personnalisé pour les dates
 
 29
 00:05:00,000 --> 00:05:02,500
-Width of the GoogleMap.
-(useful for some template to select a 99%)
+Largeur de Google Map.
+(utile pour certains templates d'indiquer 99%)
 
 30
 00:05:03,000 --> 00:05:05,968
-Height of the GoogleMap.
-(in pixel)
+Hauteur de Google Map.
+(en pixels)
 
 31
 00:05:06,184 --> 00:05:09,838
-Save and Close
+Enregistrer et fermer
 
 32
 00:05:11,851 --> 00:05:19,927
-Reload the page...
+Actualisez la page...
 
 33
 00:05:22,488 --> 00:05:27,000
-Excellent! Info message removed.
+Excellent! Message d'information enlevé.
 
 34
 00:05:28,850 --> 00:05:32,064
-Click on the item menu...
+Cliquez sur le menu...
 
 35
 00:05:33,734 --> 00:05:36,500
-Still a white page, but you need now to add events.
+Encore une page blanche, mais vous allez maintenant pouvoir ajouter des événements.
 
 36
 00:05:37,000 --> 00:05:40,100
-Tutorial to add events in the next video, part 2!
-
+Tutoriel pour ajouter des événements dans la vidéo suivante!
