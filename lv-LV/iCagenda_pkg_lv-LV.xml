@@ -2,7 +2,7 @@
 <extension method="upgrade" type="file" version="2.5">
 
 	<name>iCagenda - Latvian LV Language Pack</name>
-    <tag>lv-LV</tag>
+    	<tag>lv-LV</tag>
 	<creationDate>2013-03-09</creationDate>
 	<version>2.1</version>
 	<author>kredo9</author>
