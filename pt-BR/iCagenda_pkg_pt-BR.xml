@@ -2,8 +2,8 @@
 <extension method="upgrade" type="file" version="2.5.0">
 	<name>iCagenda - Portuguese/Brasil Language Pack</name>
 	<tag>pt-BR</tag>
-	<version>2.0.2</version>
-	<creationDate>2013-02-02</creationDate>
+	<version>2.1</version>
+	<creationDate>2013-03-08</creationDate>
 	<author>Carosouza</author>
 	<authorEmail>info@joomlic.com</authorEmail>
 	<authorUrl>www.joomlic.com</authorUrl>
