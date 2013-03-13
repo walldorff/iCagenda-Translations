@@ -1,7 +1,7 @@
 2.1 Translation Packs OK
 ==========================
 - CZECH (cs-CZ) : online
-- DUTCH (nl-NL)
+- DUTCH (nl-NL) : online
 - ENGLISH (en-GB) : online
 - FINNISH (fi-FI) : online
 - FRENCH (fr-FR) : online
