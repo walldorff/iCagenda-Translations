@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension method="upgrade" type="file" version="2.5">
 
-  <name>iCagenda - STRINGS 2.0 nl-NL Taalpakket</name>
+  <name>iCagenda - STRINGS 2.1 nl-NL Taalpakket</name>
   <tag>nl-NL</tag>
-  <creationDate>2013-01-27</creationDate>
-  <version>2.0.1</version>
+  <creationDate>2013-03-09</creationDate>
+  <version>2.1</version>
   <author>walldorff</author>
   <authorEmail>abo@wanrooy.be</authorEmail>
   <authorUrl> </authorUrl>
