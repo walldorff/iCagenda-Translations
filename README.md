@@ -9,7 +9,7 @@
 - ITALIAN (it-IT) : online
 - LATVIAN (lv-LV) : online
 - NORWEGIAN (nb-NO) : online
-- PORTUGUESE [BRAZIL] (pt-BR) : online
+- PORTUGUESE / BRAZIL (pt-BR) : online
 - ...
 
 iCagenda Translation Packs
