@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension method="upgrade" type="file" version="2.5">
 
-	<name>iCagenda - STRINGS 2.1 xx-XX Language Pack</name>
+	<name>iCagenda - xx-XX Language Pack</name>
 	<tag>xx-XX</tag>
 	<creationDate>2013-03-14</creationDate>
 	<version>2.1.1</version>
