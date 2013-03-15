@@ -1,3 +1,8 @@
+2.1.1 Translation Packs OK
+==========================
+- NORWEGIAN (nb-NO) : online
+- PORTUGUESE / BRAZIL (pt-BR) : online
+
 2.1 Translation Packs OK
 ==========================
 - CZECH (cs-CZ) : online
