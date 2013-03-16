@@ -1,7 +1,14 @@
 2.1.1 Translation Packs OK
 ==========================
+- DUTCH (nl-NL) : online
+- ENGLISH (en-GB) : online
+- ENGLISH / USA (en-US) : online
+- FRENCH (fr-FR) : online
+- GERMAN (de-DE) : online
+- ITALIAN (it-IT) : online
 - NORWEGIAN (nb-NO) : online
 - PORTUGUESE / BRAZIL (pt-BR) : online
+- PORTUGUESE (pt-PT) : online
 
 2.1 Translation Packs OK
 ==========================
