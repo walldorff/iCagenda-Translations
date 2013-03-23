@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension method="upgrade" type="file" version="2.5">
 
-  <name>iCagenda - STRINGS 2.1.1 nl-NL Taalpakket</name>
+  <name>iCagenda - 2.1.2 nl-NL Taalpakket</name>
   <tag>nl-NL</tag>
-  <creationDate>2013-03-15</creationDate>
-  <version>2.1.1</version>
+  <creationDate>2013-03-21</creationDate>
+  <version>2.1.2</version>
   <author>walldorff</author>
   <authorEmail>abo@wanrooy.be</authorEmail>
   <authorUrl> </authorUrl>
-  <copyright>Copyright (C) 2012-2013 Jooml!C. All Rights Reserved</copyright>
-  <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+  <copyright>Copyright (C) 2012-2013 Jooml!C. Alle rechten voorbehouden</copyright>
+  <license>GNU General Public License versie 2 of later; zie LICENSE.txt</license>
   <url>http://www.joomlic.com</url>
   <description>
     <![CDATA[
