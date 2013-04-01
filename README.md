@@ -1,33 +1,21 @@
-2.1.1 Translation Packs OK
+2.1.2 Translation Packs OK
 ==========================
-- DUTCH (nl-NL) : online
+- DUTCH (nl-NL) : soon
 - ENGLISH (en-GB) : online
 - ENGLISH / USA (en-US) : online
-- FRENCH (fr-FR) : online
-- GERMAN (de-DE) : online
-- ITALIAN (it-IT) : online
-- NORWEGIAN (nb-NO) : online
-- PORTUGUESE / BRAZIL (pt-BR) : online
-- PORTUGUESE (pt-PT) : online
-
-2.1 Translation Packs OK
-==========================
-- CZECH (cs-CZ) : online
-- DUTCH (nl-NL) : online
-- ENGLISH (en-GB) : online
 - FINNISH (fi-FI) : online
 - FRENCH (fr-FR) : online
-- GERMAN (de-DE) : online
 - ITALIAN (it-IT) : online
 - LATVIAN (lv-LV) : online
 - NORWEGIAN (nb-NO) : online
 - PORTUGUESE / BRAZIL (pt-BR) : online
+- PORTUGUESE (pt-PT) : online
 - ...
 
 iCagenda Translation Packs
 ==========================
 
-important : a few new strings for 2.1 ! (2013-03-08)
+important : a few new strings for 2.1.2 !
 
 Before updating a Translation Pack, thanks to have a look at the new strings of translation there : https://github.com/JoomliC/iCagenda-Translations/tree/master/xx-XX%20News%20strings%202.1
 
