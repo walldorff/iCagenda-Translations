@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension method="upgrade" type="file" version="2.5">
+
+	<name>iCagenda - STRINGS 2.1 xx-XX Language Pack</name>
+	<tag>xx-XX</tag>
+	<creationDate>2013-02-22</creationDate>
+	<version>2.1</version>
+	<author>Lyr!C</author>
+	<authorEmail>info@joomlic.com</authorEmail>
+	<authorUrl>www.joomlic.com</authorUrl>
+	<copyright>Copyright (C) 2012-2013 Jooml!C. All Rights Reserved</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<url>http://www.joomlic.com</url>
+	<description>
+		<![CDATA[
+		<h2>New strings for iCagenda</h2>
+		<h3>Translation Author: Lyr!C</h3>
+		<br>
+		]]>
+	</description>
+
+	<fileset>
+		<files folder="admin" target="administrator/language/xx-XX/">
+			<filename>xx-XX.com_icagenda.ini</filename>
+			<filename>xx-XX.com_icagenda.sys.ini</filename>
+		</files>
+		<files folder="module" target="language/xx-XX/">
+			<filename>xx-XX.mod_iccalendar.ini</filename>
+		</files>
+		<files folder="site" target="language/xx-XX/">
+			<filename>xx-XX.com_icagenda.ini</filename>
+		</files>
+	</fileset>
+	
+	<updateservers>
+		<server type="collection" priority="1" name="JoomliC Update Server">http://www.joomlic.com/icupdate/icagenda/translations.xml</server>
+	</updateservers>
+
+</extension>
